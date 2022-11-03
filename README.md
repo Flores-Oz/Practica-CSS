@@ -11,4 +11,6 @@ Ahora si uno serio
 
 ![alt text](https://github.com/Flores-Oz/Practica-CSS/blob/main/Posters/Cómo%20agendar%20una%20cita%20de%20vacunación.png)
 
-![alt text]https://github.com/Flores-Oz/Practica-CSS/blob/main/Posters/Cuida%20tu%20Salud%20Vacunate.jpg
+Y otro porque no
+
+![alt text](https://github.com/Flores-Oz/Practica-CSS/blob/main/Posters/Cuida%20tu%20Salud%20Vacunate.jpg)
